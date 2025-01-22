@@ -5,7 +5,7 @@
 To get started with this project, first clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/TechGospel/rotate-assessment.git
+git clone https://github.com/savannahtech/rotate-faith.git
 ```
 
 Then, navigate to the project folder in your terminal and run the following command to install the necessary dependencies:
